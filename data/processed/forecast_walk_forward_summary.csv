@@ -1,0 +1,4 @@
+model,origins,mae_installations,rmse_installations,mape_pct,naive_baseline_mape_pct,mape_change_vs_naive_pct,validation,warning
+Naive last value,3,764683.7,975453.3,22.031,22.031,0.0,expanding-window one-step ahead,Only six dated observations; three validation origins. Ranking is highly uncertain.
+Linear trend,3,461331.4,559389.5,13.752,22.031,-37.58,expanding-window one-step ahead,Only six dated observations; three validation origins. Ranking is highly uncertain.
+Log-linear trend,3,1015437.9,1152275.6,36.707,22.031,66.62,expanding-window one-step ahead,Only six dated observations; three validation origins. Ranking is highly uncertain.

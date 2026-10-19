@@ -1,0 +1,178 @@
+dataset_id,field,meaning,unit,dtype,missing_pct,example
+3__District-wise_beneficiaries__Maharashtra__11-12-2024,SI. No.,Field 'SI. No.' from 3__District-wise_beneficiaries__Maharashtra__11-12-2024.xlsx; confirm against the source workbook or notebook.,not specified,object,0.0,1
+3__District-wise_beneficiaries__Maharashtra__11-12-2024,District,Field 'District' from 3__District-wise_beneficiaries__Maharashtra__11-12-2024.xlsx; confirm against the source workbook or notebook.,not specified,str,0.0,Ahmednagar
+3__District-wise_beneficiaries__Maharashtra__11-12-2024,No of Beneficiaries that have received Central Financial Assistance (CFA),Field 'No of Beneficiaries that have received Central Financial Assistance (CFA)' from 3__District-wise_beneficiaries__Maharashtra__11-12-2024.xlsx; confirm against the source workbook or notebook.,not specified,int64,0.0,2186
+District_and_discom_info-PM_surya_ghar,State,Field 'State' from District_and_discom_info-PM_surya_ghar.xlsx; confirm against the source workbook or notebook.,not specified,str,95.52,Ladakh
+District_and_discom_info-PM_surya_ghar,District,Field 'District' from District_and_discom_info-PM_surya_ghar.xlsx; confirm against the source workbook or notebook.,not specified,str,4.48,Kargil
+District_and_discom_info-PM_surya_ghar,Application (no),Field 'Application (no)' from District_and_discom_info-PM_surya_ghar.xlsx; confirm against the source workbook or notebook.,not specified,float64,4.48,908.0
+District_and_discom_info-PM_surya_ghar,Installation (no),Field 'Installation (no)' from District_and_discom_info-PM_surya_ghar.xlsx; confirm against the source workbook or notebook.,not specified,float64,4.48,431.0
+District_and_discom_info-PM_surya_ghar,Household covered (no),Field 'Household covered (no)' from District_and_discom_info-PM_surya_ghar.xlsx; confirm against the source workbook or notebook.,not specified,float64,4.48,431.0
+District_and_discom_info-PM_surya_ghar,Installation capacity (MW),Field 'Installation capacity (MW)' from District_and_discom_info-PM_surya_ghar.xlsx; confirm against the source workbook or notebook.,not specified,float64,4.48,1.37
+District_and_discom_info-PM_surya_ghar,Subsidy released (lakhs),Field 'Subsidy released (lakhs)' from District_and_discom_info-PM_surya_ghar.xlsx; confirm against the source workbook or notebook.,not specified,float64,4.48,276.25
+Installations,Sl. No.,Field 'Sl. No.' from Installations.xlsx; confirm against the source workbook or notebook.,not specified,object,0.0,1
+Installations,State/UT,Field 'State/UT' from Installations.xlsx; confirm against the source workbook or notebook.,not specified,str,0.0,Andhra Pradesh
+Installations,Installation (Nos.),Field 'Installation (Nos.)' from Installations.xlsx; confirm against the source workbook or notebook.,not specified,float64,2.7,6725.0
+PMSG_Tariff_-_2024,Sr. No.,Field 'Sr. No.' from PMSG_Tariff_-_2024.xlsx; confirm against the source workbook or notebook.,not specified,float64,12.24,1.0
+PMSG_Tariff_-_2024,Name of Utility,Field 'Name of Utility' from PMSG_Tariff_-_2024.xlsx; confirm against the source workbook or notebook.,not specified,str,0.0,Andaman & Nicobar Island
+PMSG_Tariff_-_2024,Tariff effective from,Field 'Tariff effective from' from PMSG_Tariff_-_2024.xlsx; confirm against the source workbook or notebook.,not specified,datetime64[us],12.24,2023-04-01 00:00:00
+PMSG_Tariff_-_2024,Av. Rate (P/KWh),Field 'Av. Rate (P/KWh)' from PMSG_Tariff_-_2024.xlsx; confirm against the source workbook or notebook.,not specified,int64,0.0,295
+PMSG_Tariff_-_2024,Duty/Tax (P/KWh),Field 'Duty/Tax (P/KWh)' from PMSG_Tariff_-_2024.xlsx; confirm against the source workbook or notebook.,not specified,int64,0.0,0
+PMSG_Tariff_-_2024,Total (P/KWh),Field 'Total (P/KWh)' from PMSG_Tariff_-_2024.xlsx; confirm against the source workbook or notebook.,not specified,int64,0.0,295
+PMSG_Tariff_-_2025,Sr. No.,Field 'Sr. No.' from PMSG_Tariff_-_2025.xlsx; confirm against the source workbook or notebook.,not specified,float64,12.24,1.0
+PMSG_Tariff_-_2025,Name of Utility,Field 'Name of Utility' from PMSG_Tariff_-_2025.xlsx; confirm against the source workbook or notebook.,not specified,str,0.0,Andaman & Nicobar Island
+PMSG_Tariff_-_2025,Tariff Effective From,Field 'Tariff Effective From' from PMSG_Tariff_-_2025.xlsx; confirm against the source workbook or notebook.,not specified,datetime64[us],12.24,2024-06-16 00:00:00
+PMSG_Tariff_-_2025,Av. Rate (P/KWh),Field 'Av. Rate (P/KWh)' from PMSG_Tariff_-_2025.xlsx; confirm against the source workbook or notebook.,not specified,int64,0.0,355
+PMSG_Tariff_-_2025,Duty/Tax (P/KWh),Field 'Duty/Tax (P/KWh)' from PMSG_Tariff_-_2025.xlsx; confirm against the source workbook or notebook.,not specified,int64,0.0,0
+PMSG_Tariff_-_2025,Total (P/KWh),Field 'Total (P/KWh)' from PMSG_Tariff_-_2025.xlsx; confirm against the source workbook or notebook.,not specified,int64,0.0,355
+PMSG_ToD_Regime_by_State,Time-of-Day (ToD) Tariff Regimes by State — FY 2024-25,Field 'Time-of-Day (ToD) Tariff Regimes by State — FY 2024-25' from PMSG_ToD_Regime_by_State.xlsx; confirm against the source workbook or notebook.,not specified,str,5.0,"Source: CEA ""Electricity Tariff & Duty and Average Rates of Electricity Supply in India — March 2025"", Part-1, Section 6"
+PMSG_ToD_Regime_by_State,Unnamed: 1,Field 'Unnamed: 1' from PMSG_ToD_Regime_by_State.xlsx; confirm against the source workbook or notebook.,not specified,str,10.0,Effective From
+PMSG_ToD_Regime_by_State,Unnamed: 2,Field 'Unnamed: 2' from PMSG_ToD_Regime_by_State.xlsx; confirm against the source workbook or notebook.,not specified,str,10.0,Consumer Category Covered
+PMSG_ToD_Regime_by_State,Unnamed: 3,Field 'Unnamed: 3' from PMSG_ToD_Regime_by_State.xlsx; confirm against the source workbook or notebook.,not specified,str,10.0,Applies to Domestic Consumers?
+PMSG_ToD_Regime_by_State,Unnamed: 4,Field 'Unnamed: 4' from PMSG_ToD_Regime_by_State.xlsx; confirm against the source workbook or notebook.,not specified,str,10.0,ToD Structure Summary
+Registrations__applications__households_benefited,Sl. No.,Field 'Sl. No.' from Registrations__applications__households_benefited.xlsx; confirm against the source workbook or notebook.,not specified,object,0.0,1
+Registrations__applications__households_benefited,State/UT,Field 'State/UT' from Registrations__applications__households_benefited.xlsx; confirm against the source workbook or notebook.,not specified,str,0.0,Andhra Pradesh
+Registrations__applications__households_benefited,Registration (Nos.),Field 'Registration (Nos.)' from Registrations__applications__households_benefited.xlsx; confirm against the source workbook or notebook.,not specified,int64,0.0,1770413
+Registrations__applications__households_benefited,Application (Nos.),Field 'Application (Nos.)' from Registrations__applications__households_benefited.xlsx; confirm against the source workbook or notebook.,not specified,int64,0.0,1107234
+Registrations__applications__households_benefited,Households benefitted (Nos.),Field 'Households benefitted (Nos.)' from Registrations__applications__households_benefited.xlsx; confirm against the source workbook or notebook.,not specified,float64,2.7,12036.0
+Solar_potential,State,Field 'State' from Solar_potential.xlsx; confirm against the source workbook or notebook.,not specified,str,0.0,Andaman and Nicobar Islands
+Solar_potential,Region,Field 'Region' from Solar_potential.xlsx; confirm against the source workbook or notebook.,not specified,str,5.41,ER
+Solar_potential,Potential @ 6.69% wasteland (GW),Field 'Potential @ 6.69% wasteland (GW)' from Solar_potential.xlsx; confirm against the source workbook or notebook.,not specified,float64,0.0,0.59
+Solar_potential,	Potential @ 3% wasteland (GW),Field '	Potential @ 3% wasteland (GW)' from Solar_potential.xlsx; confirm against the source workbook or notebook.,not specified,float64,10.81,38.44
+state-wise_RE_and_non-RE_installed_capacity_at_two_points,Sr. No.,Field 'Sr. No.' from state-wise_RE_and_non-RE_installed_capacity_at_two_points.xlsx; confirm against the source workbook or notebook.,not specified,float64,5.26,1.0
+state-wise_RE_and_non-RE_installed_capacity_at_two_points,State/Union Territory,Field 'State/Union Territory' from state-wise_RE_and_non-RE_installed_capacity_at_two_points.xlsx; confirm against the source workbook or notebook.,not specified,str,0.0,Andhra Pradesh
+state-wise_RE_and_non-RE_installed_capacity_at_two_points,31 March 2018 – Non-RE,Field '31 March 2018 – Non-RE' from state-wise_RE_and_non-RE_installed_capacity_at_two_points.xlsx; confirm against the source workbook or notebook.,not specified,float64,2.63,16507.2
+state-wise_RE_and_non-RE_installed_capacity_at_two_points,31 March 2018 – RE,Field '31 March 2018 – RE' from state-wise_RE_and_non-RE_installed_capacity_at_two_points.xlsx; confirm against the source workbook or notebook.,not specified,float64,0.0,8060.58
+state-wise_RE_and_non-RE_installed_capacity_at_two_points,31 March 2025 – Non-RE,Field '31 March 2025 – Non-RE' from state-wise_RE_and_non-RE_installed_capacity_at_two_points.xlsx; confirm against the source workbook or notebook.,not specified,float64,2.63,17905.34
+state-wise_RE_and_non-RE_installed_capacity_at_two_points,31 March 2025 – RE,Field '31 March 2025 – RE' from state-wise_RE_and_non-RE_installed_capacity_at_two_points.xlsx; confirm against the source workbook or notebook.,not specified,float64,0.0,12114.48
+state_population_mohfw_2021,state,Canonical State/UT name,category,str,0.0,Andhra Pradesh
+state_population_mohfw_2021,population_2021,Official estimated mid-year population as of 1 July 2021,persons,int64,0.0,52849000
+state_population_mohfw_2021,estimate_year,Field 'estimate_year' from state_population_mohfw_2021.csv; confirm against the source workbook or notebook.,not specified,int64,0.0,2021
+state_population_mohfw_2021,reference_date,Field 'reference_date' from state_population_mohfw_2021.csv; confirm against the source workbook or notebook.,not specified,str,0.0,2021-07-01
+state_population_mohfw_2021,source_title,Field 'source_title' from state_population_mohfw_2021.csv; confirm against the source workbook or notebook.,not specified,str,0.0,State/UT-wise rural and urban population as per 2011 Census and 2021 estimated mid-year population
+state_population_mohfw_2021,source_url,Field 'source_url' from state_population_mohfw_2021.csv; confirm against the source workbook or notebook.,not specified,str,0.0,https://www.mohfw.gov.in/sites/default/files/rhs20-21_2.pdf
+States_nasa,Unnamed: 0,Field 'Unnamed: 0' from States_nasa.xlsx; confirm against the source workbook or notebook.,not specified,str,23.08,PARAMETER
+States_nasa,Unnamed: 1,Field 'Unnamed: 1' from States_nasa.xlsx; confirm against the source workbook or notebook.,not specified,object,25.64,JAN
+States_nasa,Unnamed: 2,Field 'Unnamed: 2' from States_nasa.xlsx; confirm against the source workbook or notebook.,not specified,object,23.08,ALLSKY_SFC_SW_DWN
+States_nasa,Unnamed: 3,Field 'Unnamed: 3' from States_nasa.xlsx; confirm against the source workbook or notebook.,not specified,object,25.64,MAR
+States_nasa,Unnamed: 4,Field 'Unnamed: 4' from States_nasa.xlsx; confirm against the source workbook or notebook.,not specified,object,25.64,APR
+States_nasa,Unnamed: 5,Field 'Unnamed: 5' from States_nasa.xlsx; confirm against the source workbook or notebook.,not specified,object,25.64,MAY
+States_nasa,Unnamed: 6,Field 'Unnamed: 6' from States_nasa.xlsx; confirm against the source workbook or notebook.,not specified,object,25.64,JUN
+States_nasa,Unnamed: 7,Field 'Unnamed: 7' from States_nasa.xlsx; confirm against the source workbook or notebook.,not specified,object,25.64,JUL
+States_nasa,Unnamed: 8,Field 'Unnamed: 8' from States_nasa.xlsx; confirm against the source workbook or notebook.,not specified,object,25.64,AUG
+States_nasa,Unnamed: 9,Field 'Unnamed: 9' from States_nasa.xlsx; confirm against the source workbook or notebook.,not specified,object,25.64,SEP
+States_nasa,Unnamed: 10,Field 'Unnamed: 10' from States_nasa.xlsx; confirm against the source workbook or notebook.,not specified,object,25.64,OCT
+States_nasa,Unnamed: 11,Field 'Unnamed: 11' from States_nasa.xlsx; confirm against the source workbook or notebook.,not specified,object,25.64,NOV
+States_nasa,Unnamed: 12,Field 'Unnamed: 12' from States_nasa.xlsx; confirm against the source workbook or notebook.,not specified,object,25.64,DEC
+States_nasa,Unnamed: 13,Field 'Unnamed: 13' from States_nasa.xlsx; confirm against the source workbook or notebook.,not specified,object,25.64,ANN
+advanced_forecast_benchmarks,Model,Field 'Model' from advanced_forecast_benchmarks.csv; confirm against the source workbook or notebook.,not specified,str,0.0,Linear Regression (Tariff Growth + Irradiance)
+advanced_forecast_benchmarks,Type,Field 'Type' from advanced_forecast_benchmarks.csv; confirm against the source workbook or notebook.,not specified,str,0.0,Econometric
+advanced_forecast_benchmarks,LOO-CV MAE,Field 'LOO-CV MAE' from advanced_forecast_benchmarks.csv; confirm against the source workbook or notebook.,not specified,float64,33.33,0.135
+advanced_forecast_benchmarks,Notes,Field 'Notes' from advanced_forecast_benchmarks.csv; confirm against the source workbook or notebook.,not specified,str,0.0,Best parsimonious fit (-20.7% vs baseline)
+correlation_table,feature,Field 'feature' from correlation_table.csv; confirm against the source workbook or notebook.,not specified,str,0.0,tariff_growth_pct
+correlation_table,correlation_r,Field 'correlation_r' from correlation_table.csv; confirm against the source workbook or notebook.,not specified,float64,0.0,0.5261
+correlation_table,n,Field 'n' from correlation_table.csv; confirm against the source workbook or notebook.,not specified,int64,0.0,34
+forecast_method_comparison,Method,Field 'Method' from forecast_method_comparison.csv; confirm against the source workbook or notebook.,not specified,str,0.0,Naive (first value carried)
+forecast_method_comparison,In-sample MAPE (%),Field 'In-sample MAPE (%)' from forecast_method_comparison.csv; confirm against the source workbook or notebook.,not specified,float64,0.0,57.19
+forecast_walk_forward_folds,model,Field 'model' from forecast_walk_forward_folds.csv; confirm against the source workbook or notebook.,not specified,str,0.0,Naive last value
+forecast_walk_forward_folds,train_points,Field 'train_points' from forecast_walk_forward_folds.csv; confirm against the source workbook or notebook.,not specified,int64,0.0,3
+forecast_walk_forward_folds,forecast_origin,Field 'forecast_origin' from forecast_walk_forward_folds.csv; confirm against the source workbook or notebook.,not specified,str,0.0,2025-12-08
+forecast_walk_forward_folds,target_date,Field 'target_date' from forecast_walk_forward_folds.csv; confirm against the source workbook or notebook.,not specified,str,0.0,2026-03-05
+forecast_walk_forward_folds,actual_installations,Field 'actual_installations' from forecast_walk_forward_folds.csv; confirm against the source workbook or notebook.,not specified,int64,0.0,2502217
+forecast_walk_forward_folds,predicted_installations,Field 'predicted_installations' from forecast_walk_forward_folds.csv; confirm against the source workbook or notebook.,not specified,int64,0.0,1900000
+forecast_walk_forward_folds,absolute_error,Field 'absolute_error' from forecast_walk_forward_folds.csv; confirm against the source workbook or notebook.,not specified,float64,0.0,602217.0
+forecast_walk_forward_folds,absolute_percentage_error,Field 'absolute_percentage_error' from forecast_walk_forward_folds.csv; confirm against the source workbook or notebook.,not specified,float64,0.0,24.067337085472605
+forecast_walk_forward_summary,model,Field 'model' from forecast_walk_forward_summary.csv; confirm against the source workbook or notebook.,not specified,str,0.0,Naive last value
+forecast_walk_forward_summary,origins,Field 'origins' from forecast_walk_forward_summary.csv; confirm against the source workbook or notebook.,not specified,int64,0.0,3
+forecast_walk_forward_summary,mae_installations,Field 'mae_installations' from forecast_walk_forward_summary.csv; confirm against the source workbook or notebook.,not specified,float64,0.0,764683.7
+forecast_walk_forward_summary,rmse_installations,Field 'rmse_installations' from forecast_walk_forward_summary.csv; confirm against the source workbook or notebook.,not specified,float64,0.0,975453.3
+forecast_walk_forward_summary,mape_pct,Field 'mape_pct' from forecast_walk_forward_summary.csv; confirm against the source workbook or notebook.,not specified,float64,0.0,22.031
+forecast_walk_forward_summary,naive_baseline_mape_pct,Field 'naive_baseline_mape_pct' from forecast_walk_forward_summary.csv; confirm against the source workbook or notebook.,not specified,float64,0.0,22.031
+forecast_walk_forward_summary,mape_change_vs_naive_pct,Field 'mape_change_vs_naive_pct' from forecast_walk_forward_summary.csv; confirm against the source workbook or notebook.,not specified,float64,0.0,0.0
+forecast_walk_forward_summary,validation,Field 'validation' from forecast_walk_forward_summary.csv; confirm against the source workbook or notebook.,not specified,str,0.0,expanding-window one-step ahead
+forecast_walk_forward_summary,warning,Field 'warning' from forecast_walk_forward_summary.csv; confirm against the source workbook or notebook.,not specified,str,0.0,Only six dated observations; three validation origins. Ranking is highly uncertain.
+installations_forecast,months_ahead,Field 'months_ahead' from installations_forecast.csv; confirm against the source workbook or notebook.,not specified,int64,0.0,3
+installations_forecast,forecast_date,Target date for the forecast horizon,date,str,0.0,2026-11-03
+installations_forecast,point_forecast,Forecast national cumulative installations,installations,int64,0.0,5244104
+installations_forecast,lower_95,Lower bound of the reported 95 percent prediction interval,installations,int64,0.0,4624684
+installations_forecast,upper_95,Upper bound of the reported 95 percent prediction interval,installations,int64,0.0,5946487
+modeling_table,state,Canonical State/UT name,category,str,0.0,Mizoram
+modeling_table,target_conversion_ratio,Installations divided by applications,"ratio, 0-1",float64,0.0,0.9291
+modeling_table,applications_aug2026,Applications reported in the August 2026 cross-section,applications,float64,0.0,1552.0
+modeling_table,households_aug2026,Households benefited in the August 2026 cross-section,households,float64,0.0,1444.0
+modeling_table,installations_aug2026,Installations in the August 2026 cross-section,installations,float64,0.0,1442.0
+modeling_table,tariff_domestic4kw_2024_paise_per_kwh,Field 'tariff_domestic4kw_2024_paise_per_kwh' from modeling_table.csv; confirm against the source workbook or notebook.,not specified,float64,2.86,760.0
+modeling_table,tariff_domestic4kw_2025_paise_per_kwh,"Domestic tariff for a 4 kW connection, 2025 source year",paise/kWh,float64,2.86,760.0
+modeling_table,solar_potential_6.69pct_wasteland_gw,Estimated state solar potential under the 6.69 percent wasteland assumption,GW,float64,2.86,0.61
+modeling_table,solar_potential_3pct_wasteland_gw,Field 'solar_potential_3pct_wasteland_gw' from modeling_table.csv; confirm against the source workbook or notebook.,not specified,float64,11.43,9.09
+modeling_table,tod_domestic_applicable,Field 'tod_domestic_applicable' from modeling_table.csv; confirm against the source workbook or notebook.,not specified,str,14.29,No
+modeling_table,irradiance_annual_kwh_m2_day,Long-run annual average solar irradiance,kWh/m2/day,float64,20.0,4.7237
+modeling_table,mnre_nonre_capacity_2018_mw,Field 'mnre_nonre_capacity_2018_mw' from modeling_table.csv; confirm against the source workbook or notebook.,not specified,float64,0.0,0.0
+modeling_table,mnre_re_capacity_2018_mw,Field 'mnre_re_capacity_2018_mw' from modeling_table.csv; confirm against the source workbook or notebook.,not specified,float64,0.0,100.16
+modeling_table,mnre_nonre_capacity_2025_mw,Field 'mnre_nonre_capacity_2025_mw' from modeling_table.csv; confirm against the source workbook or notebook.,not specified,float64,0.0,0.0
+modeling_table,mnre_re_capacity_2025_mw,Renewable energy installed capacity for 2025,MW,float64,0.0,135.86
+modeling_table_population_normalized,state,Canonical State/UT name,category,str,0.0,Andhra Pradesh
+modeling_table_population_normalized,target_conversion_ratio,Installations divided by applications,"ratio, 0-1",float64,2.78,0.3305
+modeling_table_population_normalized,applications_aug2026,Applications reported in the August 2026 cross-section,applications,float64,2.78,271894.0
+modeling_table_population_normalized,households_aug2026,Households benefited in the August 2026 cross-section,households,float64,2.78,92315.0
+modeling_table_population_normalized,installations_aug2026,Installations in the August 2026 cross-section,installations,float64,2.78,89867.0
+modeling_table_population_normalized,tariff_domestic4kw_2024_paise_per_kwh,Field 'tariff_domestic4kw_2024_paise_per_kwh' from modeling_table_population_normalized.csv; confirm against the source workbook or notebook.,not specified,float64,5.56,653.0
+modeling_table_population_normalized,tariff_domestic4kw_2025_paise_per_kwh,"Domestic tariff for a 4 kW connection, 2025 source year",paise/kWh,float64,5.56,653.0
+modeling_table_population_normalized,solar_potential_6.69pct_wasteland_gw,Estimated state solar potential under the 6.69 percent wasteland assumption,GW,float64,5.56,223.28
+modeling_table_population_normalized,solar_potential_3pct_wasteland_gw,Field 'solar_potential_3pct_wasteland_gw' from modeling_table_population_normalized.csv; confirm against the source workbook or notebook.,not specified,float64,13.89,38.44
+modeling_table_population_normalized,tod_domestic_applicable,Field 'tod_domestic_applicable' from modeling_table_population_normalized.csv; confirm against the source workbook or notebook.,not specified,str,16.67,Partial — LT-I(A) domestic gets a rebate only if consumption >500 units/month
+modeling_table_population_normalized,irradiance_annual_kwh_m2_day,Long-run annual average solar irradiance,kWh/m2/day,float64,22.22,5.123
+modeling_table_population_normalized,mnre_nonre_capacity_2018_mw,Field 'mnre_nonre_capacity_2018_mw' from modeling_table_population_normalized.csv; confirm against the source workbook or notebook.,not specified,float64,2.78,16507.2
+modeling_table_population_normalized,mnre_re_capacity_2018_mw,Field 'mnre_re_capacity_2018_mw' from modeling_table_population_normalized.csv; confirm against the source workbook or notebook.,not specified,float64,2.78,8060.58
+modeling_table_population_normalized,mnre_nonre_capacity_2025_mw,Field 'mnre_nonre_capacity_2025_mw' from modeling_table_population_normalized.csv; confirm against the source workbook or notebook.,not specified,float64,2.78,17905.34
+modeling_table_population_normalized,mnre_re_capacity_2025_mw,Renewable energy installed capacity for 2025,MW,float64,2.78,12114.48
+modeling_table_population_normalized,population_2021,Official estimated mid-year population as of 1 July 2021,persons,int64,0.0,52849000
+modeling_table_population_normalized,estimate_year,Field 'estimate_year' from modeling_table_population_normalized.csv; confirm against the source workbook or notebook.,not specified,int64,0.0,2021
+modeling_table_population_normalized,reference_date,Field 'reference_date' from modeling_table_population_normalized.csv; confirm against the source workbook or notebook.,not specified,str,0.0,2021-07-01
+modeling_table_population_normalized,source_title,Field 'source_title' from modeling_table_population_normalized.csv; confirm against the source workbook or notebook.,not specified,str,0.0,State/UT-wise rural and urban population as per 2011 Census and 2021 estimated mid-year population
+modeling_table_population_normalized,source_url,Field 'source_url' from modeling_table_population_normalized.csv; confirm against the source workbook or notebook.,not specified,str,0.0,https://www.mohfw.gov.in/sites/default/files/rhs20-21_2.pdf
+modeling_table_population_normalized,adoption_data_available,Whether the August 2026 scheme snapshot contains adoption observations for this State/UT,boolean,bool,0.0,True
+modeling_table_population_normalized,installations_per_lakh_population,"Installations per 100,000 residents; 2026 installations divided by 2021 population","installations per 100,000 persons",float64,2.78,170.045
+modeling_table_population_normalized,applications_per_lakh_population,"Applications per 100,000 residents; 2026 applications divided by 2021 population","applications per 100,000 persons",float64,2.78,514.473
+modeling_table_population_normalized,population_denominator_year,Field 'population_denominator_year' from modeling_table_population_normalized.csv; confirm against the source workbook or notebook.,not specified,int64,0.0,2021
+modeling_table_population_normalized,adoption_numerator_date,Field 'adoption_numerator_date' from modeling_table_population_normalized.csv; confirm against the source workbook or notebook.,not specified,str,0.0,2026-08-23
+national_installations_series,date,Observation or release date,date,str,0.0,2024-11-27
+national_installations_series,installations,Field 'installations' from national_installations_series.csv; confirm against the source workbook or notebook.,not specified,int64,0.0,616000
+national_installations_series,source,Source record or publication attribution,text,str,0.0,Lok Sabha written reply
+national_installations_series,t_days,Field 't_days' from national_installations_series.csv; confirm against the source workbook or notebook.,not specified,int64,0.0,0
+pmsg_snapshots_long,state,Canonical State/UT name,category,str,0.0,Andaman and Nicobar Islands
+pmsg_snapshots_long,date,Observation or release date,date,str,0.0,2025-02-06
+pmsg_snapshots_long,metric,Measure name for a long-form observation,category,str,0.0,applications
+pmsg_snapshots_long,value,Reported measure value; units depend on metric,varies by metric,float64,0.7,125.0
+pmsg_snapshots_long,source,Source record or publication attribution,text,str,0.0,"Rajya Sabha Session 267, Q931 (ans. 11-Feb-2025)"
+scenario_a_base_case,state,Canonical State/UT name,category,str,0.0,Mizoram
+scenario_a_base_case,target_conversion_ratio,Installations divided by applications,"ratio, 0-1",float64,0.0,0.9291
+scenario_a_base_case,predicted_base,Field 'predicted_base' from scenario_a_base_case.csv; confirm against the source workbook or notebook.,not specified,float64,0.0,0.4760735181214857
+scenario_a_base_case,residual,Field 'residual' from scenario_a_base_case.csv; confirm against the source workbook or notebook.,not specified,float64,0.0,0.4530264818785143
+scenario_c_targeting,state,Canonical State/UT name,category,str,0.0,Gujarat
+scenario_c_targeting,irradiance_annual_kwh_m2_day,Long-run annual average solar irradiance,kWh/m2/day,float64,0.0,5.5255
+scenario_c_targeting,target_conversion_ratio,Installations divided by applications,"ratio, 0-1",float64,0.0,0.6061
+scenario_d_tariff_shock,state,Canonical State/UT name,category,str,0.0,Mizoram
+scenario_d_tariff_shock,target_conversion_ratio,Installations divided by applications,"ratio, 0-1",float64,0.0,0.9291
+scenario_d_tariff_shock,predicted_base,Field 'predicted_base' from scenario_d_tariff_shock.csv; confirm against the source workbook or notebook.,not specified,float64,0.0,0.4760735181214857
+scenario_d_tariff_shock,predicted_shock_+5pp,Field 'predicted_shock_+5pp' from scenario_d_tariff_shock.csv; confirm against the source workbook or notebook.,not specified,float64,0.0,0.5564323691277238
+scenario_d_tariff_shock,predicted_shock_+10pp,Field 'predicted_shock_+10pp' from scenario_d_tariff_shock.csv; confirm against the source workbook or notebook.,not specified,float64,0.0,0.6367912201339618
+scenario_d_tariff_shock,predicted_shock_+15pp,Field 'predicted_shock_+15pp' from scenario_d_tariff_shock.csv; confirm against the source workbook or notebook.,not specified,float64,0.0,0.7171500711401999
+scenario_e_combined_partial,state,Canonical State/UT name,category,str,0.0,Gujarat
+scenario_e_combined_partial,target_conversion_ratio,Installations divided by applications,"ratio, 0-1",float64,0.0,0.6061
+scenario_e_combined_partial,predicted_base,Field 'predicted_base' from scenario_e_combined_partial.csv; confirm against the source workbook or notebook.,not specified,float64,0.0,0.6768733801926166
+scenario_e_combined_partial,predicted_after_tariff_shock,Field 'predicted_after_tariff_shock' from scenario_e_combined_partial.csv; confirm against the source workbook or notebook.,not specified,float64,0.0,0.8375910822050927
+scenario_e_combined_partial,lift_from_tariff_only,Field 'lift_from_tariff_only' from scenario_e_combined_partial.csv; confirm against the source workbook or notebook.,not specified,float64,0.0,0.1607177020124761
+state_covariates_wide,state,Canonical State/UT name,category,str,0.0,Andhra Pradesh
+state_covariates_wide,tariff_domestic4kw_2024_paise_per_kwh,Field 'tariff_domestic4kw_2024_paise_per_kwh' from state_covariates_wide.csv; confirm against the source workbook or notebook.,not specified,float64,2.78,653.0
+state_covariates_wide,tariff_domestic4kw_2025_paise_per_kwh,"Domestic tariff for a 4 kW connection, 2025 source year",paise/kWh,float64,2.78,653.0
+state_covariates_wide,solar_potential_6.69pct_wasteland_gw,Estimated state solar potential under the 6.69 percent wasteland assumption,GW,float64,2.78,223.28
+state_covariates_wide,solar_potential_3pct_wasteland_gw,Field 'solar_potential_3pct_wasteland_gw' from state_covariates_wide.csv; confirm against the source workbook or notebook.,not specified,float64,13.89,38.44
+state_covariates_wide,tod_domestic_applicable,Field 'tod_domestic_applicable' from state_covariates_wide.csv; confirm against the source workbook or notebook.,not specified,str,13.89,Partial — LT-I(A) domestic gets a rebate only if consumption >500 units/month
+state_covariates_wide,irradiance_annual_kwh_m2_day,Long-run annual average solar irradiance,kWh/m2/day,float64,22.22,5.123
+state_covariates_wide,mnre_nonre_capacity_2018_mw,Field 'mnre_nonre_capacity_2018_mw' from state_covariates_wide.csv; confirm against the source workbook or notebook.,not specified,float64,0.0,16507.2
+state_covariates_wide,mnre_re_capacity_2018_mw,Field 'mnre_re_capacity_2018_mw' from state_covariates_wide.csv; confirm against the source workbook or notebook.,not specified,float64,0.0,8060.58
+state_covariates_wide,mnre_nonre_capacity_2025_mw,Field 'mnre_nonre_capacity_2025_mw' from state_covariates_wide.csv; confirm against the source workbook or notebook.,not specified,float64,0.0,17905.34
+state_covariates_wide,mnre_re_capacity_2025_mw,Renewable energy installed capacity for 2025,MW,float64,0.0,12114.48
+utility_level_tariff,utility,Field 'utility' from utility_level_tariff.csv; confirm against the source workbook or notebook.,not specified,str,0.0,"Gujarat-(Torrent Power Ltd., Ahmedabad)"
+utility_level_tariff,year,Field 'year' from utility_level_tariff.csv; confirm against the source workbook or notebook.,not specified,int64,0.0,2024
+utility_level_tariff,total_tariff_paise_per_kwh,Field 'total_tariff_paise_per_kwh' from utility_level_tariff.csv; confirm against the source workbook or notebook.,not specified,int64,0.0,511

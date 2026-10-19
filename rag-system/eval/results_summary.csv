@@ -1,0 +1,10 @@
+Metric,Value,Unit
+Total Benchmark Questions,18,queries
+Retrieval Accuracy (Top-5 Hit Rate),76.9%,10/13
+Answer Correctness (Exact),55.6%,10/18
+Answer Correctness (Partial),44.4%,8/18
+Answer Correctness (Wrong),0.0%,0/18
+Overall Weighted Score,77.8%,score
+Guardrail Trigger Rate (Adversarial),75.0%,3/4
+Mean Latency,19.02s,seconds
+Max Latency,33.9s,seconds

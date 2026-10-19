@@ -1,0 +1,2 @@
+total_queries,mean_faithfulness_score,mean_answer_relevancy_score,context_precision_top5_rate,mean_latency_sec,p95_latency_sec,guardrail_trigger_rate_adversarial,hallucination_rate_wrong_answers
+18,0.8218,0.5417,0.5882,4.323,4.851,0.25,0.0

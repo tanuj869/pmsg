@@ -1,0 +1,19 @@
+id,type,question,gold_chunk_id,top5_hit,rank,retrieved_ids
+eval_01,literature,What machine learning models did Mbey et al. (2024) use for power generation forecasting?,lit_ml_01,True,2.0,lit_landscape_04;lit_ml_01;lit_ml_05;lit_ml_02;report_sec_04
+eval_02,literature,What are the main determinants of small-scale residential solar adoption according to Reissl et al. (2025)?,lit_ml_03,True,1.0,lit_ml_03;lit_landscape_04;lit_forecast_06;lit_pmsg_04;lit_pmsg_05
+eval_03,literature,How did Dong et al. (2023) demonstrate machine learning can reduce soft costs in residential solar?,lit_ml_04,True,1.0,lit_ml_04;lit_landscape_04;lit_ml_06;lit_ml_02;lit_forecast_06
+eval_04,literature,What gap did Kishore et al. (2024) address using a synthetic digital twin for solar adoption?,lit_ml_07,True,1.0,lit_ml_07;lit_landscape_04;lit_forecast_06;lit_pmsg_05;lit_policy_03
+eval_05,literature,What did Mukherjee and Sidhartha (2025) find regarding the relationship between subsidy percentage and solar adoption in India?,lit_pmsg_02,True,1.0,lit_pmsg_02;lit_policy_05;lit_pmsg_01;lit_landscape_06;lit_pmsg_05
+eval_06,literature,What metering and export compensation issues did Nishant Chadha (2025) identify under PM Surya Ghar?,lit_pmsg_04,True,1.0,lit_pmsg_04;lit_pmsg_03;report_sec_02;lit_pmsg_05;report_sec_17
+eval_07,literature,What socio-economic barriers to rooftop solar were identified by Mittal and Upadhyay (2024) in India?,lit_policy_01,True,1.0,lit_policy_01;lit_landscape_02;lit_policy_06;lit_landscape_06;lit_pmsg_05
+eval_08,literature,What political economy challenges in Indian solar policy did Pritish Behuria (2020) highlight?,lit_landscape_01,True,1.0,lit_landscape_01;lit_landscape_04;report_sec_04;lit_landscape_06;lit_policy_05
+eval_09,forecasting,What is the predicted national cumulative installation volume for PM Surya Ghar in 6 months?,report_sec_10,False,,report_sec_02;report_sec_01;lit_pmsg_03;report_sec_15;lit_pmsg_01
+eval_10,forecasting,What is the projected cumulative installation volume in 12 months according to the log-linear model?,report_sec_10,True,1.0,report_sec_10;lit_landscape_06;report_sec_01;lit_pmsg_03;lit_pmsg_01
+eval_11,forecasting,What would a 10pp tariff growth shock do to Gujarat's predicted conversion ratio?,report_sec_13,True,1.0,report_sec_13;report_sec_03;report_sec_01;report_sec_08;report_sec_16
+eval_12,forecasting,What is the national mean conversion ratio lift from a 10pp tariff growth shock across all states?,report_sec_13,True,1.0,report_sec_13;report_sec_01;report_sec_09;report_sec_08;lit_pmsg_02
+eval_13,forecasting,Which two features best predict PM Surya Ghar application-to-installation conversion ratio in the fitted model?,report_sec_09,True,5.0,report_sec_16;report_sec_08;report_sec_01;report_sec_15;report_sec_09
+eval_14,forecasting,Why does the six-feature Random Forest underperform the simple two-feature linear model?,report_sec_09,True,1.0,report_sec_09;report_sec_01;report_sec_16;report_sec_15;lit_ml_02
+eval_15,adversarial,How much would a 10% increase in state subsidy top-up increase conversion ratio?,report_sec_06,True,5.0,report_sec_13;report_sec_03;report_sec_16;lit_policy_04;report_sec_06
+eval_16,adversarial,Does higher tariff growth cause households to install solar rooftop systems?,report_sec_09,False,,lit_policy_03;lit_pmsg_02;lit_pmsg_01;lit_policy_06;lit_policy_05
+eval_17,adversarial,What is the capital of France?,,False,,lit_forecast_05;report_sec_04;report_sec_01;lit_policy_06;report_sec_02
+eval_18,adversarial,Will PM Surya Ghar achieve 100% conversion in 3 months with a 50% subsidy hike?,report_sec_06,False,,lit_pmsg_03;report_sec_01;report_sec_02;report_sec_15;lit_pmsg_04

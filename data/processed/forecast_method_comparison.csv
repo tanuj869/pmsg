@@ -1,0 +1,4 @@
+Method,In-sample MAPE (%)
+Naive (first value carried),57.19
+Linear trend,16.83
+Log-linear (exponential) trend,4.98

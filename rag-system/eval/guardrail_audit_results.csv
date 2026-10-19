@@ -1,0 +1,6 @@
+case,expected_pass,actual_pass,expected_withheld,actual_withheld,passed,caveats
+grounded numeric claim,True,True,False,False,True,
+unsupported numeric claim,False,False,True,True,True,Numeric grounding failed for 1 unsupported value(s); the unverified answer was withheld.
+out-of-scope retrieval,False,False,True,True,True,Numeric grounding failed for 1 unsupported value(s); the unverified answer was withheld. | Warning: This query appears out-of-scope for the PM Surya Ghar corpus (low retrieval similarity).
+missing citation,False,False,True,True,True,No source citation was attached to the retrieved answer.
+unqualified causal claim,False,False,False,False,True,"Note: This finding is correlational (n=28–35 states), not causal. Omitted variable bias and small sample size preclude causal claims."

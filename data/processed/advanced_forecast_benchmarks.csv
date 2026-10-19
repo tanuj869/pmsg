@@ -1,0 +1,7 @@
+Model,Type,LOO-CV MAE,Notes
+Linear Regression (Tariff Growth + Irradiance),Econometric,0.135,Best parsimonious fit (-20.7% vs baseline)
+XGBoost Regressor,Gradient Boosted Tree,0.1691,Slightly overfits on small sample (n=28)
+LightGBM Regressor,Gradient Boosted Tree,0.1768,Regularized tree ensemble
+Random Forest Regressor,Bagged Ensembles,0.161,Baseline 6-feature RF
+"SARIMAX(1,1,0)",Time-Series,,National Series In-Sample MAPE: 19.83%
+Log-Linear (Exponential),Extrapolation,,National series best fit: In-sample MAPE 4.98%
